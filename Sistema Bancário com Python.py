@@ -1,6 +1,3 @@
-from cgi import print_directory
-
-
 menu = """
 
 [d] Depositar
